@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: f9ad3635398324208b0852f60427a372
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3782645057867301429
+    second: splint_fixation_0
+  - first:
+      213: 2421422849114486846
+    second: splint_fixation_1
+  - first:
+      213: 8735736409326200280
+    second: splint_fixation_2
+  - first:
+      213: -5117910070613371981
+    second: splint_fixation_3
+  - first:
+      213: 8992496917336320077
+    second: splint_fixation_4
+  - first:
+      213: -3842513073713837766
+    second: splint_fixation_5
+  - first:
+      213: -6375871544095075770
+    second: splint_fixation_6
+  - first:
+      213: -4739509356008168056
+    second: splint_fixation_7
+  - first:
+      213: 4614531224951346971
+    second: splint_fixation_8
+  - first:
+      213: 8547693564387063136
+    second: splint_fixation_9
+  - first:
+      213: 1753174660778251540
+    second: splint_fixation_10
+  - first:
+      213: 6782319951259916853
+    second: splint_fixation_11
+  - first:
+      213: 4647356153685347904
+    second: splint_fixation_12
+  - first:
+      213: -802153313819547383
+    second: splint_fixation_13
+  - first:
+      213: -3357080905096101952
+    second: splint_fixation_14
+  - first:
+      213: 2455780057020176717
+    second: splint_fixation_15
+  - first:
+      213: -7697936158315889786
+    second: splint_fixation_16
+  - first:
+      213: 7487171724813013150
+    second: splint_fixation_17
+  - first:
+      213: 808487276188441972
+    second: splint_fixation_18
+  - first:
+      213: 9134050734777278132
+    second: splint_fixation_19
+  - first:
+      213: 3640976168271956328
+    second: splint_fixation_20
+  - first:
+      213: -1177864170855567502
+    second: splint_fixation_21
+  - first:
+      213: -8858864861684989681
+    second: splint_fixation_22
+  - first:
+      213: 7522255528011901314
+    second: splint_fixation_23
+  - first:
+      213: -509640123713249775
+    second: splint_fixation_24
+  - first:
+      213: -7370022880506531243
+    second: splint_fixation_25
+  - first:
+      213: 1474659620447546788
+    second: splint_fixation_26
+  - first:
+      213: -6725612032735928673
+    second: splint_fixation_27
+  - first:
+      213: -2180475880086920792
+    second: splint_fixation_28
+  - first:
+      213: -8498520030703871654
+    second: splint_fixation_29
+  - first:
+      213: 7940681105970197052
+    second: splint_fixation_30
+  - first:
+      213: -5315665092225654895
+    second: splint_fixation_31
+  - first:
+      213: 7190381568701211864
+    second: splint_fixation_32
+  - first:
+      213: -5097241743289277446
+    second: splint_fixation_33
+  - first:
+      213: -4454324465556877505
+    second: splint_fixation_34
+  - first:
+      213: 6889139184946216887
+    second: splint_fixation_35
+  - first:
+      213: -6276325720142335177
+    second: splint_fixation_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splint_fixation_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 823
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdbe667c58518bc0800000000000000
+      internalID: -3782645057867301429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 823
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38bb74804f9a9120800000000000000
+      internalID: 2421422849114486846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 823
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a559faf19b3970800000000000000
+      internalID: 8735736409326200280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 823
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b312b818e789f8b0800000000000000
+      internalID: -5117910070613371981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 823
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4860a15d44cbcc70800000000000000
+      internalID: 8992496917336320077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 823
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390e7cc7b6acaac0800000000000000
+      internalID: -3842513073713837766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 823
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64211b88c9a5487a0800000000000000
+      internalID: -6375871544095075770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 823
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8852e790a51e93eb0800000000000000
+      internalID: -4739509356008168056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_8
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 823
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b175c2443bb1a0040800000000000000
+      internalID: 4614531224951346971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_9
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 823
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065fe2a52028f9670800000000000000
+      internalID: 8547693564387063136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 823
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41557e4b017845810800000000000000
+      internalID: 1753174660778251540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 823
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a54e7bf04af1e50800000000000000
+      internalID: 6782319951259916853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 33
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e042d8cc9be7040800000000000000
+      internalID: 4647356153685347904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 757
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9092262afcd2ed4f0800000000000000
+      internalID: -802153313819547383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 265
+        width: 330
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfff7114b04961d0800000000000000
+      internalID: -3357080905096101952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 276
+        width: 126
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491d2953fea41220800000000000000
+      internalID: 2455780057020176717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_16
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 736
+        width: 217
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b32f379df6b2590800000000000000
+      internalID: -7697936158315889786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_17
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 675
+        width: 114
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9014d5d307c7e760800000000000000
+      internalID: 7487171724813013150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 286
+        width: 22
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d92a6e4e2583b00800000000000000
+      internalID: 808487276188441972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 552
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9bcebfbaa2ce70800000000000000
+      internalID: 9134050734777278132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 573
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8694389c888578230800000000000000
+      internalID: 3640976168271956328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f6e76f6c267afe0800000000000000
+      internalID: -1177864170855567502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f018316385dfe0580800000000000000
+      internalID: -8858864861684989681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 234
+        width: 309
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2892ed05c8b646860800000000000000
+      internalID: 7522255528011901314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 234
+        width: 218
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e19c6f1056de8f0800000000000000
+      internalID: -509640123713249775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 224
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55238ecfc3b68b990800000000000000
+      internalID: -7370022880506531243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 234
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad63699c1b077410800000000000000
+      internalID: 1474659620447546788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 163
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e9ea37d73d9a2a0800000000000000
+      internalID: -6725612032735928673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ac1e5db46db1e0800000000000000
+      internalID: -2180475880086920792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 163
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599a552f013f0a80800000000000000
+      internalID: -8498520030703871654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 163
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327204f467f23e60800000000000000
+      internalID: 7940681105970197052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 163
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f12f023c6fa36b0800000000000000
+      internalID: -5315665092225654895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 163
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a3f1c0fd59c360800000000000000
+      internalID: 7190381568701211864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 163
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af323fc04a5f249b0800000000000000
+      internalID: -5097241743289277446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_34
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 163
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8624af7f0f22c0800000000000000
+      internalID: -4454324465556877505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_35
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 163
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf71f6a6932b9f50800000000000000
+      internalID: 6889139184946216887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splint_fixation_36
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 163
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733b44cc20306e8a0800000000000000
+      internalID: -6276325720142335177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      splint_fixation_0: -3782645057867301429
+      splint_fixation_1: 2421422849114486846
+      splint_fixation_10: 1753174660778251540
+      splint_fixation_11: 6782319951259916853
+      splint_fixation_12: 4647356153685347904
+      splint_fixation_13: -802153313819547383
+      splint_fixation_14: -3357080905096101952
+      splint_fixation_15: 2455780057020176717
+      splint_fixation_16: -7697936158315889786
+      splint_fixation_17: 7487171724813013150
+      splint_fixation_18: 808487276188441972
+      splint_fixation_19: 9134050734777278132
+      splint_fixation_2: 8735736409326200280
+      splint_fixation_20: 3640976168271956328
+      splint_fixation_21: -1177864170855567502
+      splint_fixation_22: -8858864861684989681
+      splint_fixation_23: 7522255528011901314
+      splint_fixation_24: -509640123713249775
+      splint_fixation_25: -7370022880506531243
+      splint_fixation_26: 1474659620447546788
+      splint_fixation_27: -6725612032735928673
+      splint_fixation_28: -2180475880086920792
+      splint_fixation_29: -8498520030703871654
+      splint_fixation_3: -5117910070613371981
+      splint_fixation_30: 7940681105970197052
+      splint_fixation_31: -5315665092225654895
+      splint_fixation_32: 7190381568701211864
+      splint_fixation_33: -5097241743289277446
+      splint_fixation_34: -4454324465556877505
+      splint_fixation_35: 6889139184946216887
+      splint_fixation_36: -6276325720142335177
+      splint_fixation_4: 8992496917336320077
+      splint_fixation_5: -3842513073713837766
+      splint_fixation_6: -6375871544095075770
+      splint_fixation_7: -4739509356008168056
+      splint_fixation_8: 4614531224951346971
+      splint_fixation_9: 8547693564387063136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
