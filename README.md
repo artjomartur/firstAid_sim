@@ -19,7 +19,7 @@ An interactive simulator for first aid in a park environment. Learn how to respo
 
 ### 🕹️ Play Now
 👉 **Play the WebGL version directly in your browser on itch.io:**  
-[https://artjomartur.itch.io/firstaid-sim](https://artjomartur.itch.io/firstaid-sim)  
+[https://artjomartur.itch.io/firstaid-sim](https://artjomartur.itch.io/help-first-aids-simulator)  
 *(Alternatively, visit the profile page at [artjomartur.itch.io](https://artjomartur.itch.io/))*
 
 ### 🌟 Gameplay Features
