@@ -1,6 +1,6 @@
 # 🚑 First Aid Simulator - Park Edition
 
-[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://artjomartur.itch.io/firstaid-sim)
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)]([https://artjomartur.itch.io/firstaid-sim](https://artjomartur.itch.io/help-first-aids-simulator))
 [![Release v0.1.0-beta](https://img.shields.io/badge/Release-v0.1.0--beta-blue?style=for-the-badge)](https://github.com/artjomartur/firstAid_sim/releases)
 
 ---
